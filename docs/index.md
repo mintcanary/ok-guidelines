@@ -310,7 +310,7 @@ This diagram illustrates the minimum space that you should leave between the log
 
 ## Endorsement logo
 
-<img src="../endorsement-logo-2.jpg" alt="" width="161">
+<img src="endorsement-logo-2.jpg" alt="" width="161">
 
 See [a.okfn.org/html/oki/panel](https://a.okfn.org/html/oki/panel/)
 
@@ -348,13 +348,13 @@ See [a.okfn.org/html/oki/panel](https://a.okfn.org/html/oki/panel/)
 
 In addition to our colour scheme and typeface, the "spokes" of our logo can be utilised to continue and reinforce our visual identity. This device can be used to overlay images, or highlight text.
 
-<img src="../elements-2.png" alt="">
+<img src="elements-2.png" alt="">
 
-<img src="../elements-3.jpg" alt="">
+<img src="elements-3.jpg" alt="">
 
 ## Slide presentations
 
-<img src="../slide-title-page-2.png" alt="">
+<img src="slide-title-page-2.png" alt="">
 
 A Google Slides template can be found [here](https://drive.google.com/open?id=1t1MdasbylNSYrBHxUH9q_OqBfs6JadxYBOGBMbMDId8).
 
