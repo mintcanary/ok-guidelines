@@ -4,7 +4,7 @@
 
 This (work in progress) guide introduces our brand, what we stand for and how we want people to see us. It contains easy to use guidelines on our core brand elements – our logos, our typefaces, our colours, and examples of core applications.
 
-If you have any queries about these guidelines, please contact [Sam Smith](mailto:sam.smith@okfn.org).
+If you have any queries about these guidelines, please contact [Sam Smith](https://okfn.org/team#sam-smith).
 
 ## Logos
 
